@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="139700" started-at="2020-08-19T15:45:33 IST" finished-at="2020-08-19T15:47:52 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="139700" started-at="2020-08-19T15:45:33 IST" finished-at="2020-08-19T15:47:52 IST">
+      <class name="practice.AppiumFramework.Ecommerce_Register_Test">
+        <test-method status="PASS" signature="killAllNotes()[pri:0, instance:practice.AppiumFramework.Ecommerce_Register_Test@1060b431]" name="killAllNotes" is-config="true" duration-ms="3062" started-at="2020-08-19T15:45:36 IST" finished-at="2020-08-19T15:45:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNotes -->
+        <test-method status="PASS" signature="registration()[pri:0, instance:practice.AppiumFramework.Ecommerce_Register_Test@1060b431]" name="registration" duration-ms="83692" started-at="2020-08-19T15:45:39 IST" finished-at="2020-08-19T15:47:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+      </class> <!-- practice.AppiumFramework.Ecommerce_Register_Test -->
+      <class name="practice.AppiumFramework.ApiDemoTest">
+        <test-method status="PASS" signature="killAllNotes()[pri:0, instance:practice.AppiumFramework.ApiDemoTest@612679d6]" name="killAllNotes" is-config="true" duration-ms="3046" started-at="2020-08-19T15:45:33 IST" finished-at="2020-08-19T15:45:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNotes -->
+        <test-method status="PASS" signature="api()[pri:0, instance:practice.AppiumFramework.ApiDemoTest@612679d6]" name="api" duration-ms="49700" started-at="2020-08-19T15:47:03 IST" finished-at="2020-08-19T15:47:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api -->
+      </class> <!-- practice.AppiumFramework.ApiDemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
